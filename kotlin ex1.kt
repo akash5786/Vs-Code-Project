@@ -5,5 +5,5 @@ fun main(args: Array<String>) {
 
     val sum = first + second
 
-    println("The sum is: $sum")
+    println("Sum is : $sum")
 }
